@@ -8,4 +8,9 @@
   * chaina
   * russia
   * japan
-  
+# ordered list
+1. fruits
+   1. apple
+   2. gua
+   3. orange
+   4. banana
